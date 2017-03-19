@@ -1,0 +1,15 @@
+{
+  "name": "metalsmith-bazooka",
+  "version": "1.0.0",
+  "description": "A metalsmith plugin for bazooka",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "ava --verbose test/index.js"
+  },
+  "author": "Clyde Smets",
+  "license": "MIT",
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "metalsmith": "^2.3.0"
+  }
+}

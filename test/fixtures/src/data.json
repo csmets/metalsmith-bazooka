@@ -1,0 +1,9 @@
+{
+    "website": {
+        "index": {
+            "title": "My Website",
+            "tags": "blog, post, webdev",
+            "content": "<p>This is my website</p>"
+        }
+    }
+}
