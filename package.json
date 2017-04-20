@@ -4,11 +4,11 @@
   "description": "A metalsmith plugin for bazooka",
   "main": "lib/index.js",
   "scripts": {
-    "test": "ava --verbose test/index.js"
+    "test": "ava --verbose"
   },
   "author": "Clyde Smets",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "ava": "^0.18.2",
     "metalsmith": "^2.3.0"
   }
